@@ -1,13 +1,24 @@
-# Insira aqui o nome do exercício
+# MediaAritmetica
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
+* 🖥️ Exercício: Números e operadores (8) - MediaAritmetica
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: Prof.: Ermogenes & Prof.: Diego Neri
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md
   
-## Enunciado
-  
-Insira aqui a descrição do exercício
+## Exercício `MediaAritmetica`
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Calcule a média aritmética entre 3 números reais digitados pelo usuário.
+
+```
+Média Aritmética de 3 números
+
+Digite o primeiro número: 7
+Digite o segundo número: 9
+Digite o terceiro número: 5
+
+Média: 7.0
+```
+
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
